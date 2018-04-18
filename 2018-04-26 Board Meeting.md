@@ -8,7 +8,7 @@ To join the meeting go to <add link here>
 #### (16:10) Discuss and describe board roles and responsibilities.
 #### (16:15) Establish 2018 Nordix Board.
   1. Form initial board and sign the foundation over to the board
-  1. Nominate and elect Officers of the board
+  1. Nominate and elect Officers of the board (Chairman, CEO, CFO, Secretary)
 #### (16:30) Outline board objectives for 2018
 #### (16:45) Future board meeting planning 
 #### (17:00) Nordix Treasury update
