@@ -5,15 +5,25 @@ To join the meeting go to <add link here>
   
 ##  Agenda
 #### (16:00) Welcome new board members, introductions.
-#### (16:10) Discuss and describe board roles and responsibilities.
-#### (16:15) Establish 2018 Nordix Board.
-  1. Form initial board and sign the foundation over to the board
-  1. Nominate and elect Officers of the board (Chairman, CEO, CFO, Secretary)
-#### (16:30) Outline board objectives for 2018
-#### (16:45) Future board meeting planning 
-#### (17:00) Nordix Treasury update
-#### (17:15) Nordix community and operations discussion
+#### (16:10) Formally establish the 2018 Nordix Board.
+  1. Signing the foundation over to the board
+  1. Discuss and describe board roles and responsibilities.
+  1. Nominate and elect Officers (Chairman, CEO, CFO, Secretary)
+#### (16:30) Board objectives for 2018
+  1. Identify key items to be addressed during 2018
+    1. Communication goals
+    1. Membership targets
+    1. Operational goals
+  1. Future board meeting planning 
+#### (16:45) Nordix community and operations discussion
   1. Discuss assets, methodologies and general operations
-  1. Overview of Board and TSC relationship
-  1. Establish method for forming the TSC
+    1. Nordix Treasury update
+  1. Forming the Techncal comittee
+    1. Overview of Board and TC relationship
+    1. Identify how to form the initial TC
+      1. Member representatives
+      1. Community nominations
+      1. Open elections
+    1. Nominate a driver for agreed TC formation
+#### (17:15) Any other business
 #### (17:30) Meeting Close
