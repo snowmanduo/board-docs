@@ -1,6 +1,6 @@
-# Nordix foundation Board of directors Meeting - 2018-04-26
+# Nordix foundation Board of directors Meeting - 2018-05-03
 
-## The Nordix Board will meet at 16:00 CET on April 26th of 2018
+## The Nordix Board will meet at 16:00 CET on May 3rd of 2018
 To join the meeting go to <add link here>
   
 ##  Agenda
